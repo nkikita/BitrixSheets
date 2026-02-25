@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11512.155 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitrixSheets", "BitrixSheets.csproj", "{B5A52B2E-B8BE-84A4-22AC-5516511B1277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A52B2E-B8BE-84A4-22AC-5516511B1277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A52B2E-B8BE-84A4-22AC-5516511B1277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A52B2E-B8BE-84A4-22AC-5516511B1277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A52B2E-B8BE-84A4-22AC-5516511B1277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B463AC-8A3F-41B4-9673-749501A48914}
+	EndGlobalSection
+EndGlobal
